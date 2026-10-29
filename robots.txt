@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /admin2.html
+Sitemap: https://xn--9dba0ah.velqoza.com/sitemap.xml
